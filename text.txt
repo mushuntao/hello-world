@@ -1,1 +1,2 @@
 sddddfixed bug
+add /usr/bin/env
